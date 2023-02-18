@@ -2308,10 +2308,46 @@ hr {
   text-align: right;
   color: #465041;
 }
+.cid-thddCyVG28 {
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/background7.svg");
+}
+@media (max-width: 767px) {
+  .cid-thddCyVG28 h2 {
+    margin-bottom: 1rem;
+  }
+}
+@media (min-width: 767px) {
+  .cid-thddCyVG28 .container {
+    position: relative;
+  }
+  .cid-thddCyVG28 .row {
+    margin: 0;
+  }
+  .cid-thddCyVG28 h2 {
+    margin: 0;
+  }
+}
+.cid-thddCyVG28 .mbr-section-subtitle {
+  color: #e9204f;
+}
+.cid-thddCyVG28 .mbr-text {
+  margin-top: 1.4rem;
+  text-align: right;
+}
+.cid-thddCyVG28 h2 {
+  text-align: right;
+  color: #000000;
+}
+.cid-thddCyVG28 .mbr-gold {
+  color: #f3ba35 !important;
+  font-size: 1.5rem;
+}
 .cid-thk9bsrLMc {
   padding-top: 75px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/background7.svg");
+  background-color: #ffffff;
 }
 .cid-thk9bsrLMc .mbr-text {
   margin: 0;
@@ -2434,42 +2470,6 @@ hr {
     width: 1.5em !important;
     height: 1.5em !important;
   }
-}
-.cid-thddCyVG28 {
-  padding-top: 45px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-@media (max-width: 767px) {
-  .cid-thddCyVG28 h2 {
-    margin-bottom: 1rem;
-  }
-}
-@media (min-width: 767px) {
-  .cid-thddCyVG28 .container {
-    position: relative;
-  }
-  .cid-thddCyVG28 .row {
-    margin: 0;
-  }
-  .cid-thddCyVG28 h2 {
-    margin: 0;
-  }
-}
-.cid-thddCyVG28 .mbr-section-subtitle {
-  color: #e9204f;
-}
-.cid-thddCyVG28 .mbr-text {
-  margin-top: 1.4rem;
-  text-align: right;
-}
-.cid-thddCyVG28 h2 {
-  text-align: right;
-  color: #000000;
-}
-.cid-thddCyVG28 .mbr-gold {
-  color: #f3ba35 !important;
-  font-size: 2rem;
 }
 .cid-tvWDc2A1Sg {
   padding-top: 60px;
@@ -3100,6 +3100,7 @@ hr {
   height: 132px;
   margin-bottom: 40px;
   padding: 20px 26px;
+  min-height: 5rem;
 }
 .cid-tcMyZmZJq1 input:hover {
   border-color: #14142b !important;
@@ -3259,6 +3260,9 @@ hr {
 }
 .cid-tcMyZmZJq1 .jq-selectbox__select {
   padding: 1.07em 1.5em !important;
+}
+.cid-tcMyZmZJq1 textarea.form-control {
+  height: 8rem !important;
 }
 .cid-tg61zJ3xFE {
   padding-top: 30px;
