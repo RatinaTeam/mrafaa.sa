@@ -244,7 +244,7 @@
     ],
     "imageResize": true,
     "favicon": false,
-    "mbrsiteDomain": "b9almnkwww",
+    "mbrsiteDomain": "afr4euw1z4",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -255,7 +255,9 @@
     "versionPublish": "5.7.8",
     "screenshot": "screenshot.png",
     "global_footer_custom": "<script  src=\"https://cdn.ratina.co/js/helper-v11.js?c=b&l=en\" ></script>",
-    "global_header_custom": "<script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js\"></script>"
+    "global_header_custom": "<script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js\"></script>",
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/Mahmoud/Desktop/ratina%20repos/mrafaa.sa"
   },
   "pages": {
     "index.html": {
